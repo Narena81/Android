@@ -1,0 +1,7 @@
+#Tue Dec 27 15:58:32 AEDT 2016
+base.0=/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f3772aac1c7743da634fc0ab3e3a5f3bb0bff2cf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_013c7591beac37ee1a467468cd5ce7a878258ee3/classes.dex
+base.1=/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_013c7591beac37ee1a467468cd5ce7a878258ee3
+file.0=/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f3772aac1c7743da634fc0ab3e3a5f3bb0bff2cf/classes.dex

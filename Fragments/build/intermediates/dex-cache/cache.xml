@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_2cb8f3c2aa58ecb699885588d49221610328a033/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_20742fd96c332ea03486b4ca3b5a75db7ac60094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_0ad7299c5f2758ffa848c19e0f1a77061d7c9cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_933bce1e6dd085931dc11a1bf2b5a50e137075e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_c91d175dc12239b1d9e30f46b2117f71b948cc0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_ba2f8e107bc2ea15f1382aebdf7f063567d32972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_14f705cdfb998dc545bd1a57f38617d425d001cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0bdaabe906e61e70bf729cf4ee5d7964d2caf15c">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_013c7591beac37ee1a467468cd5ce7a878258ee3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e43f817589607dbd5f04e7b4d44fea7866652dbd">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f3772aac1c7743da634fc0ab3e3a5f3bb0bff2cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/ibrisimovicnarena/Development/Android/BookProjectFragments/Fragments/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_c0a55503830c97ebd66bbaa4d30ee5bd5b25f31f/classes.dex" />
+    </item>
+
+</items>
