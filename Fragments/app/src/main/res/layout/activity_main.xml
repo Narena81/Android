@@ -12,13 +12,13 @@
              android:layout_height="wrap_content"
              android:id="@+id/button1"
              android:text="Fragment no 1"
-             android:onClick="selectFrag"/>
+             android:onClick="selectFragment"/>
 
     <Button  android:layout_width="fill_parent"
              android:layout_height="wrap_content"
              android:id="@+id/button2"
              android:text="Fragment no 2"
-             android:onClick="selectFrag"/>
+             android:onClick="selectFragment"/>
 
     <FrameLayout android:layout_width="match_parent"
                  android:layout_height="match_parent"
